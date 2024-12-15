@@ -1,0 +1,14 @@
+[
+{"name": "University of California, Berkeley", "location": "Berkeley", "website": "https://berkeley.edu"},
+{"name": "California Polytechnic State University, San Luis Obispo", "location": "San Luis Obispo", "website": "https://www.calpoly.edu"},
+{"name": "University of California, Santa Cruz", "location": "Santa Cruz", "website": "https://ucsc.edu"},
+{"name": "University of California, Santa Barbara", "location": "Santa Barbara", "website": "https://ucsb.edu"},
+{"name": "University of California, San Diego", "location": "San Diego", "website": "https://ucsd.edu/"},
+{"name": "University of California, Riverside", "location": "Riverside", "website": "https://ucr.edu"},
+{"name": "University of California, Merced", "location": "Merced", "website": "https://www.ucmerced.edu"},
+{"name": "University of California, Los Angeles", "location": "Los Angeles", "website": "https://ucla.edu"},
+{"name": "University of California, Irvine", "location": "Irvine", "website": "https://uci.edu"},
+{"name": "University of California, Davis", "location": "Davis", "website": "https://ucdavis.edu"}
+][
+
+]
