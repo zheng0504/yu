@@ -12,7 +12,7 @@ document.getElementById('login-form')?.addEventListener('submit', function(event
 
 // 获取并显示大学数据
 if (window.location.pathname.includes('大学信息.html')) {
-    fetch('universities.json')
+    fetch('爬虫项目/大学数据.json')
         .then(response => response.json())
         .then(data => {
             const universityList = document.getElementById('university-list');
